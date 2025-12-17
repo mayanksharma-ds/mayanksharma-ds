@@ -27,35 +27,11 @@ Aspiring Data Scientist • Machine Learning • NLP
 
 ---
 ### Skills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+---
 
-# 💻 Tech Stack:
+extract skills form this code but i want them to be displayed in the format which u hv give me
 
-
-<table align="center">
-  <tr>
-    <td align="center" width="220"><b>Python</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" /></td>
-    <td align="center" width="220"><b>AWS</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100" /></td>
-    <td align="center" width="220"><b>MySQL</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" /></td>
-    <td align="center" width="220"><b>MongoDB</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="100" /></td>
-    <td align="center" width="220"><b>DynamoDB</b><br/><br/><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Amazon_DynamoDB.svg" width="90" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>TensorFlow</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="90" /></td>
-    <td align="center"><b>PyTorch</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="90" /></td>
-    <td align="center"><b>Keras</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="90" /></td>
-    <td align="center"><b>Scikit-learn</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="110" /></td>
-    <td align="center"><b>SciPy</b><br/><br/><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_LOGO.svg" width="90" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Pandas</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="90" /></td>
-    <td align="center"><b>NumPy</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="90" /></td>
-    <td align="center"><b>Matplotlib</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="90" /></td>
-    <td align="center"><b>Plotly</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="90" /></td>
-    <td align="center"><b>Power BI</b><br/><br/><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="90" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Streamlit</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="90" /></td>
-    <td align="center"><b>Selenium</b><br/><br/><img src="https://cdn
 ---
 
 ## 📌 Featured Projects
