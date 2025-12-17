@@ -30,38 +30,33 @@ Aspiring Data Scientist • Machine Learning • NLP
 
 # 💻 Tech Stack:
 
+# 💻 Tech Stack:
+
 <table align="center">
   <tr>
-    <td align="center" width="220"><b>Python</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" /></td>
-    <td align="center" width="220"><b>AWS</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100" /></td>
-    <td align="center" width="220"><b>MySQL</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="100" /></td>
-    <td align="center" width="220"><b>MongoDB</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="100" /></td>
-    <td align="center" width="220"><b>DynamoDB</b><br/><br/><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Amazon_DynamoDB.svg" width="80" /></td>
+    <td align="center" width="220"><b>Python</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" /></td>
+    <td align="center" width="220"><b>AWS</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100" /></td>
+    <td align="center" width="220"><b>MySQL</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" /></td>
+    <td align="center" width="220"><b>MongoDB</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="100" /></td>
+    <td align="center" width="220"><b>DynamoDB</b><br/><br/><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Amazon_DynamoDB.svg" width="90" /></td>
   </tr>
   <tr>
-    <td align="center"><b>TensorFlow</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="90" /></td>
-    <td align="center"><b>PyTorch</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="90" /></td>
-    <td align="center"><b>Keras</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="90" /></td>
-    <td align="center"><b>Scikit-learn</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="110" /></td>
-    <td align="center"><b>SciPy</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" width="90" /></td>
+    <td align="center"><b>TensorFlow</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="90" /></td>
+    <td align="center"><b>PyTorch</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="90" /></td>
+    <td align="center"><b>Keras</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="90" /></td>
+    <td align="center"><b>Scikit-learn</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="110" /></td>
+    <td align="center"><b>SciPy</b><br/><br/><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_LOGO.svg" width="90" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Pandas</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="90" /></td>
-    <td align="center"><b>NumPy</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="90" /></td>
-    <td align="center"><b>Matplotlib</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="90" /></td>
-    <td align="center"><b>Plotly</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="90" /></td>
-    <td align="center"><b>Power BI</b><br/><br/><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="80" /></td>
+    <td align="center"><b>Pandas</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="90" /></td>
+    <td align="center"><b>NumPy</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="90" /></td>
+    <td align="center"><b>Matplotlib</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="90" /></td>
+    <td align="center"><b>Plotly</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="90" /></td>
+    <td align="center"><b>Power BI</b><br/><br/><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="90" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Streamlit</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="90" /></td>
-    <td align="center"><b>Selenium</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="90" /></td>
-    <td align="center"><b>GitHub</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="90" /></td>
-    <td colspan="2" align="center"><i>More coming soon...</i></td>
-  </tr>
-</table>
-
----
----
+    <td align="center"><b>Streamlit</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="90" /></td>
+    <td align="center"><b>Selenium</b><br/><br/><img src="https://cdn---
 
 ## 📌 Featured Projects
 
