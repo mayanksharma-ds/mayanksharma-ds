@@ -1,7 +1,7 @@
-<!-- ===== TOP BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mayank%20Sharma&fontSize=45&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Data%20Science%20%26%20Machine%20Learning&fontSize=40&fontColor=ffffff&fontAlignY=35" />
 </p>
+
 
 <h3 align="center">
 Aspiring Data Scientist • Machine Learning • NLP
