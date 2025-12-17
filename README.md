@@ -34,7 +34,7 @@ Aspiring Data Scientist • Machine Learning • NLP
     <td align="center" width="220"><b>AWS</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100" /></td>
     <td align="center" width="220"><b>MySQL</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="100" /></td>
     <td align="center" width="220"><b>MongoDB</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="100" /></td>
-    <td align="center" width="220"><b>DynamoDB</b><br/><br/><img src="https://simpleicons.org/icons/amazondynamodb.svg" width="90" height="90" /></td>
+    <td align="center" width="200"><b>DynamoDB</b><br/><br/><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DynamoDB-Dark.svg" width="100" height="100" /></td>
   </tr>
   <tr>
     <td align="center"><b>TensorFlow</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="90" /></td>
