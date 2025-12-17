@@ -48,7 +48,7 @@ Aspiring Data Scientist • Machine Learning • NLP
     <td align="center"><b>NumPy</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="90" /></td>
     <td align="center"><b>Matplotlib</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="90" /></td>
     <td align="center"><b>Plotly</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="90" /></td>
-    <td align="center"><b>Power BI</b><br/><br/><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="80" /></td>
+    <td align="center"><b>Power BI</b><br/><br/><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="90" /></td>
   </tr>
   <tr>
     <td align="center"><b>Streamlit</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="90" /></td>
