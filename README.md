@@ -76,12 +76,20 @@ Aspiring Data Scientist • Machine Learning • NLP
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="mailto:your-email@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Mayanksharma8853">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=40&section=footer" />
-</p>
+
