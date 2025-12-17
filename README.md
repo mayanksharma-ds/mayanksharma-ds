@@ -1,40 +1,34 @@
-<!-- ===== TOP GRADIENT BANNER ===== -->
+<!-- ===== TOP BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Mayank%20Sharma&fontSize=48&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mayank%20Sharma&fontSize=45&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 <h3 align="center">
-Data Science • Machine Learning • NLP
+Aspiring Data Scientist • Machine Learning • NLP
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mayanksharma8853&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Mayanksharma8853&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
-<!-- ===== ABOUT ME BANNER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:243B55,100:141E30&height=80&section=header&text=About%20Me&fontSize=28&fontColor=ffffff" />
-</p>
+## 👨‍💻 About Me
 
-🎯 Passionate about **Data Science, Machine Learning & NLP**  
-📊 Strong foundation in **data analysis & modeling**  
-🧠 Learning through **hands-on real-world projects**  
-🚀 Focused on continuous improvement  
+🎯 Passionate about **Data Science, Machine Learning, and NLP**  
+📊 Strong interest in **data-driven problem solving**  
+🧠 Learning by building **real-world projects**  
+🚀 Consistently improving skills through hands-on practice  
 
 ---
 
-<!-- ===== SKILLS BANNER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:141E30,100:243B55&height=80&section=header&text=Technical%20Skills&fontSize=28&fontColor=ffffff" />
-</p>
+## 🛠️ Technical Skills
 
 ### 💻 Programming
 - Python
 - SQL
 
-### 📊 Data Science & Machine Learning
+### 📊 Data Science & ML
 - NumPy, Pandas  
 - Matplotlib, Seaborn  
 - Scikit-learn  
@@ -47,40 +41,31 @@ Data Science • Machine Learning • NLP
 
 ---
 
-<!-- ===== PROJECTS BANNER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:243B55,100:141E30&height=80&section=header&text=Projects&fontSize=28&fontColor=ffffff" />
-</p>
+## 📌 Featured Projects
 
 ### 🔹 Resume Parser using NLP
-- Extracts **Name, Email, Phone & Skills**
+- Extracts **Name, Email, Phone Number & Skills**
 - Handles PDF resumes
 - Built with **NLP + Regex**
 - Streamlit-based UI
 
 ### 🔹 100 Days of Machine Learning
-- Daily ML practice
-- Concept → implementation
-- Strong fundamentals focus
+- Daily ML & Data Science practice
+- Covers fundamentals → projects
+- Focus on implementation & clarity
 
 ---
 
-<!-- ===== STATS BANNER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:141E30,100:243B55&height=80&section=header&text=GitHub%20Stats&fontSize=28&fontColor=ffffff" />
-</p>
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayanksharma8853&show_icons=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayanksharma8853" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayanksharma8853&show_icons=true&theme=default" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayanksharma8853" height="170"/>
 </p>
 
 ---
 
-<!-- ===== CONNECT BANNER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:243B55,100:141E30&height=80&section=header&text=Connect%20With%20Me&fontSize=28&fontColor=ffffff" />
-</p>
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/">LinkedIn</a> •
@@ -89,7 +74,6 @@ Data Science • Machine Learning • NLP
 
 ---
 
-<!-- ===== FOOTER BANNER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=40&section=footer" />
 </p>
