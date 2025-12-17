@@ -16,11 +16,6 @@ Aspiring Data Scientist • Machine Learning • NLP
 ---
 ## 👨‍💻 About Me
 
-<img align="right"
-     src="https://github.com/Mayanksharma8853/100-days-of-machine-learning/blob/main/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif?raw=true"
-     width="350" />
-
-🎯 Passionate about Data Science, Machine Learning, and NLP.
 📊 Perform **data collection, cleaning, and exploratory analysis** to ensure high-quality inputs.  
 🧠 Build **end-to-end ML pipelines**, including feature engineering, model training, evaluation, and optimization.    
 🚀 Continuously refine models and workflows to achieve **better accuracy, efficiency, and scalability**.  
