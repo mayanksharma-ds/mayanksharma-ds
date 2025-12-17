@@ -17,10 +17,9 @@ Aspiring Data Scientist • Machine Learning • NLP
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 
-<table>
+<table cellspacing="0" cellpadding="0">
 <tr>
 <td width="60%" valign="top">
 
