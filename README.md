@@ -28,37 +28,39 @@ Aspiring Data Scientist • Machine Learning • NLP
 ---
 ### Skills
 
+# 💻 Tech Stack:
+
 <table align="center">
   <tr>
-    <td align="center" width="200"><b>LangChain</b><br/><br/><img src="https://cdn.worldvectorlogo.com/logos/langchain.svg" width="100" /></td>
-    <td align="center" width="200"><b>OpenAI</b><br/><br/><img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="100" /></td>
-    <td align="center" width="200"><b>Hugging Face</b><br/><br/><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="100" /></td>
-    <td align="center" width="200"><b>Cohere</b><br/><br/><img src="https://cdn.worldvectorlogo.com/logos/cohere-1.svg" width="100" /></td>
-    <td align="center" width="200"><b>TogetherAI</b><br/><br/><img src="https://raw.githubusercontent.com/togethercomputer/together-python/main/docs/assets/together_logo.png" width="100" /></td>
+    <td align="center" width="220"><b>Python</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" /></td>
+    <td align="center" width="220"><b>AWS</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100" /></td>
+    <td align="center" width="220"><b>MySQL</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="100" /></td>
+    <td align="center" width="220"><b>MongoDB</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="100" /></td>
+    <td align="center" width="220"><b>DynamoDB</b><br/><br/><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Amazon_DynamoDB.svg" width="80" /></td>
   </tr>
   <tr>
-    <td align="center"><b>AssemblyAI</b><br/><br/><img src="https://www.assemblyai.com/favicon.ico" width="80" /></td>
-    <td align="center"><b>Pinecone</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="80" /></td>
-    <td align="center"><b>Gradio</b><br/><br/><img src="https://raw.githubusercontent.com/gradio-app/gradio/main/guides/assets/logo.png" width="90" /></td>
-    <td align="center"><b>Streamlit</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="80" /></td>
-    <td align="center"><b>TensorFlow</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="80" /></td>
+    <td align="center"><b>TensorFlow</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="90" /></td>
+    <td align="center"><b>PyTorch</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="90" /></td>
+    <td align="center"><b>Keras</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="90" /></td>
+    <td align="center"><b>Scikit-learn</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="110" /></td>
+    <td align="center"><b>SciPy</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scipy/scipy-original.svg" width="90" /></td>
   </tr>
   <tr>
-    <td align="center"><b>PyTorch</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="80" /></td>
-    <td align="center"><b>Keras</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="80" /></td>
-    <td align="center"><b>Scikit-learn</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="100" /></td>
-    <td align="center"><b>OpenCV</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="80" /></td>
-    <td align="center"><b>Flask</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="80" /></td>
+    <td align="center"><b>Pandas</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="90" /></td>
+    <td align="center"><b>NumPy</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="90" /></td>
+    <td align="center"><b>Matplotlib</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="90" /></td>
+    <td align="center"><b>Plotly</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="90" /></td>
+    <td align="center"><b>Power BI</b><br/><br/><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="80" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Python</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" /></td>
-    <td align="center"><b>MySQL</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="80" /></td>
-    <td align="center"><b>MongoDB</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="80" /></td>
-    <td align="center"><b>R</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="80" /></td>
-    <td align="center"><b>SAS</b><br/><br/><img src="https://www.sas.com/en_us/logos/_jcr_content/par/image.img.png/1574360340339.png" width="90" /></td>
+    <td align="center"><b>Streamlit</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="90" /></td>
+    <td align="center"><b>Selenium</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="90" /></td>
+    <td align="center"><b>GitHub</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="90" /></td>
+    <td colspan="2" align="center"><i>More coming soon...</i></td>
   </tr>
 </table>
 
+---
 ---
 
 ## 📌 Featured Projects
