@@ -16,16 +16,21 @@ Aspiring Data Scientist • Machine Learning • NLP
 ---
 ## 👨‍💻 About Me
 
+<img align="right"
+     src="![Uploading Coding Work From Home GIF by Domme Space.gif…]()
+"
+     width="350" />
+
 📊 Perform **data collection, cleaning, and exploratory analysis** to ensure high-quality inputs.  
-🧠 Build **end-to-end ML pipelines**, including feature engineering, model training, evaluation, and optimization.    
+🧠 Build **end-to-end ML pipelines**, including feature engineering, model training, evaluation, and optimization.  
 🚀 Continuously refine models and workflows to achieve **better accuracy, efficiency, and scalability**.  
 🛠️ Develop **reusable, well-documented code** that follows best practices and supports maintainability.  
-📦 Create **deployable applications** (e.g., Streamlit apps) to make ML solutions accessible and interactive.   
+📦 Create **deployable applications** (e.g., Streamlit apps) to make ML solutions accessible and interactive.  
 📚 Stay updated with **emerging tools, frameworks, and industry trends** to apply modern, effective approaches.  
 🤝 Collaborate and learn through **projects, experimentation, and community-driven learning**.  
 
-
 <br clear="right"/>
+
 
 ---
 # 💻 Tech Stack:
