@@ -17,7 +17,7 @@ Aspiring Data Scientist • Machine Learning • NLP
 ## 👨‍💻 About Me
 
 <img align="right"
-     src="![Uploading Coding Work From Home GIF by Domme Space.gif…]()
+     src="https://github.com/Mayanksharma8853/Mayanksharma8853/blob/main/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif?raw=true?"
 "
      width="350" />
 
