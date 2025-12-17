@@ -1,3 +1,9 @@
+<!-- ===== TOP BANNER ===== --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Mayank%20Sharma&fontSize=38&fontColor=ffffff&fontAlignY=35" />
+</p>
+
+
+
 <!-- ===== TOP BANNER ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mayank%20Sharma&fontSize=45&fontColor=ffffff&fontAlignY=35" />
