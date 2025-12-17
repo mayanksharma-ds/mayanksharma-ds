@@ -27,7 +27,37 @@ Aspiring Data Scientist • Machine Learning • NLP
 
 ---
 ### Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+<table align="center">
+  <tr>
+    <td align="center" width="200"><b>LangChain</b><br/><br/><img src="https://cdn.worldvectorlogo.com/logos/langchain.svg" width="100" /></td>
+    <td align="center" width="200"><b>OpenAI</b><br/><br/><img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="100" /></td>
+    <td align="center" width="200"><b>Hugging Face</b><br/><br/><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="100" /></td>
+    <td align="center" width="200"><b>Cohere</b><br/><br/><img src="https://cdn.worldvectorlogo.com/logos/cohere-1.svg" width="100" /></td>
+    <td align="center" width="200"><b>TogetherAI</b><br/><br/><img src="https://raw.githubusercontent.com/togethercomputer/together-python/main/docs/assets/together_logo.png" width="100" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>AssemblyAI</b><br/><br/><img src="https://www.assemblyai.com/favicon.ico" width="80" /></td>
+    <td align="center"><b>Pinecone</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="80" /></td>
+    <td align="center"><b>Gradio</b><br/><br/><img src="https://raw.githubusercontent.com/gradio-app/gradio/main/guides/assets/logo.png" width="90" /></td>
+    <td align="center"><b>Streamlit</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="80" /></td>
+    <td align="center"><b>TensorFlow</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="80" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>PyTorch</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="80" /></td>
+    <td align="center"><b>Keras</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="80" /></td>
+    <td align="center"><b>Scikit-learn</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="100" /></td>
+    <td align="center"><b>OpenCV</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="80" /></td>
+    <td align="center"><b>Flask</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="80" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Python</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" /></td>
+    <td align="center"><b>MySQL</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="80" /></td>
+    <td align="center"><b>MongoDB</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="80" /></td>
+    <td align="center"><b>R</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="80" /></td>
+    <td align="center"><b>SAS</b><br/><br/><img src="https://www.sas.com/en_us/logos/_jcr_content/par/image.img.png/1574360340339.png" width="90" /></td>
+  </tr>
+</table>
 ---
 
 extract skills form this code but i want them to be displayed in the format which u hv give me
