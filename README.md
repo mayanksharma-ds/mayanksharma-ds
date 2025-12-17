@@ -30,43 +30,34 @@ Aspiring Data Scientist • Machine Learning • NLP
 
 <table align="center">
   <tr>
-    <td align="center" width="20%"><p>LangChain</p><img src="https://cdn.worldvectorlogo.com/logos/langchain.svg" width="60" /></td>
-    <td align="center" width="20%"><p>OpenAI</p><img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="60" /></td>
-    <td align="center" width="20%"><p>Hugging Face</p><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="60" /></td>
-    <td align="center" width="20%"><p>Cohere</p><img src="https://cdn.worldvectorlogo.com/logos/cohere-1.svg" width="60" /></td>
-    <td align="center" width="20%"><p>TogetherAI</p><img src="https://raw.githubusercontent.com/togethercomputer/together-python/main/docs/assets/together_logo.png" width="60" /></td>
+    <td align="center" width="200"><b>LangChain</b><br/><br/><img src="https://cdn.worldvectorlogo.com/logos/langchain.svg" width="100" /></td>
+    <td align="center" width="200"><b>OpenAI</b><br/><br/><img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="100" /></td>
+    <td align="center" width="200"><b>Hugging Face</b><br/><br/><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="100" /></td>
+    <td align="center" width="200"><b>Cohere</b><br/><br/><img src="https://cdn.worldvectorlogo.com/logos/cohere-1.svg" width="100" /></td>
+    <td align="center" width="200"><b>TogetherAI</b><br/><br/><img src="https://raw.githubusercontent.com/togethercomputer/together-python/main/docs/assets/together_logo.png" width="100" /></td>
   </tr>
   <tr>
-    <td align="center"><p>AssemblyAI</p><img src="https://www.assemblyai.com/favicon.ico" width="40" /></td>
-    <td align="center"><p>Pinecone (VectorDB)</p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" /></td>
-    <td align="center"><p>Gradio</p><img src="https://raw.githubusercontent.com/gradio-app/gradio/main/guides/assets/logo.png" width="50" /></td>
-    <td align="center"><p>Streamlit</p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="40" /></td>
-    <td align="center"><p>TensorFlow</p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" /></td>
+    <td align="center"><b>AssemblyAI</b><br/><br/><img src="https://www.assemblyai.com/favicon.ico" width="80" /></td>
+    <td align="center"><b>Pinecone</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="80" /></td>
+    <td align="center"><b>Gradio</b><br/><br/><img src="https://raw.githubusercontent.com/gradio-app/gradio/main/guides/assets/logo.png" width="90" /></td>
+    <td align="center"><b>Streamlit</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="80" /></td>
+    <td align="center"><b>TensorFlow</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="80" /></td>
   </tr>
   <tr>
-    <td align="center"><p>PyTorch</p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" /></td>
-    <td align="center"><p>Keras</p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40" /></td>
-    <td align="center"><p>Scikit-learn</p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" /></td>
-    <td align="center"><p>OpenCV</p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" /></td>
-    <td align="center"><p>Flask</p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" /></td>
+    <td align="center"><b>PyTorch</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="80" /></td>
+    <td align="center"><b>Keras</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="80" /></td>
+    <td align="center"><b>Scikit-learn</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="100" /></td>
+    <td align="center"><b>OpenCV</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="80" /></td>
+    <td align="center"><b>Flask</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="80" /></td>
   </tr>
   <tr>
-    <td align="center"><p>Python</p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></td>
-    <td align="center"><p>MySQL</p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" /></td>
-    <td align="center"><p>MongoDB</p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" /></td>
-    <td align="center"><p>R</p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" /></td>
-    <td align="center"><p>SAS</p><img src="https://www.sas.com/en_us/logos/_jcr_content/par/image.img.png/1574360340339.png" width="50" /></td>
-  </tr>
-  <tr>
-    <td align="center"><p>Tableau</p><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="60" /></td>
-    <td align="center"><p>Power BI</p><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="40" /></td>
-    <td align="center"><p>AWS</p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" /></td>
-    <td align="center"><p>GCP</p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" /></td>
-    <td align="center"><p>Git</p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" /></td>
+    <td align="center"><b>Python</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" /></td>
+    <td align="center"><b>MySQL</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="80" /></td>
+    <td align="center"><b>MongoDB</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="80" /></td>
+    <td align="center"><b>R</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="80" /></td>
+    <td align="center"><b>SAS</b><br/><br/><img src="https://www.sas.com/en_us/logos/_jcr_content/par/image.img.png/1574360340339.png" width="90" /></td>
   </tr>
 </table>
----
-[![](https://visitcount.itsvg.in/api?id=mayanksharma8853&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
