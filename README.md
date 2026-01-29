@@ -1,6 +1,16 @@
-<!-- ===== TOP BANNER ===== --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Mayank%20Sharma&fontSize=38&fontColor=ffffff&fontAlignY=35" />
-</p>
+<div align="center">
+
+<h1>Hi, I’m Mayank Sharma 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0A2540&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;Machine+Learning+Developer;Building+Projects+That+Matter" />
+
+<br>
+
+🌐 <b>Portfolio</b>  
+👉 https://mayanksharma-ds.github.io/
+
+</div>
+
 
 
 
