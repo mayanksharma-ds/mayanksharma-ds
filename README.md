@@ -1,131 +1,163 @@
-<div align="center">
+<!-- Gradient Name -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Mayank%20Sharma&fontSize=48&fontColor=gradient&animation=twinkling" />
+</p>
 
-<h1>Hi, I’m Mayank Sharma 👋</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0A2540&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;Machine+Learning+Developer;Building+Projects+That+Matter" />
-
-<br>
-
-🌐 <b>Portfolio</b>  
-👉 https://mayanksharma-ds.github.io/
-
-</div>
+<!-- Short Typing Line -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=Data+Science+Explorer;Machine+Learning+Builder;NLP+Enthusiast" />
+</p>
 
 
 
 
-
-<h3 align="center">
-Aspiring Data Scientist • Machine Learning • NLP
-</h3>
+<!-- ================================================= -->
+<!--              MAYANK SHARMA | README               -->
+<!-- ================================================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mayanksharma8853&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6A5ACD&text=Mayank%20Sharma&height=110&fontSize=48&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=Data+Science+Explorer;Machine+Learning+Builder;NLP+Enthusiast;Turning+Data+into+Decisions" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayanksharma-ds&style=for-the-badge&color=6A5ACD" />
 </p>
 
 ---
-## 👨‍💻 About Me
 
-<img align="right"
-     src="https://github.com/Mayanksharma8853/Mayanksharma8853/blob/main/Coding%20Work%20From%20Home%20GIF%20by%20Domme%20Space.gif?raw=true"
-     width="400" />
+## 🧭 Who Am I?
 
+> *“Data is noisy. I enjoy finding the signal.”*
 
-<div style="margin-left: 6px;">
-📊&nbsp;&nbsp;Perform data collection, cleaning, and exploratory analysis to ensure high-quality inputs.
-</div>
+I’m **Mayank**, a **Data Science & Machine Learning enthusiast** who enjoys  
+breaking complex problems into **models, metrics, and meaning**.
 
-<div style="margin-left: 6px;">
-🧠&nbsp;&nbsp;Build end-to-end ML pipelines, including feature engineering, model training, evaluation, and optimization.
-</div>
-
-<div style="margin-left: 6px;">
-🚀&nbsp;&nbsp;Continuously refine models and workflows to achieve better accuracy, efficiency, and scalability.
-</div>
-
-<div style="margin-left: 6px;">
-🛠️&nbsp;&nbsp;Develop reusable, well-documented code that follows best practices and supports maintainability.
-</div>
-
-<div style="margin-left: 6px;">
-📦&nbsp;&nbsp;Create deployable applications (e.g., Streamlit apps) to make ML solutions accessible and interactive.
-</div>
-
-<div style="margin-left: 6px;">
-📚&nbsp;&nbsp;Stay updated with emerging tools, frameworks, and industry trends to apply modern, effective approaches.
-</div>
-
-<div style="margin-left: 6px;">
-🤝&nbsp;&nbsp;Collaborate and learn through projects, experimentation, and community-driven learning.
-</div>
-
- 
-
-<br clear="right"/>
-
-
+I focus on building projects that are:
+- ✔ Practical  
+- ✔ Explainable  
+- ✔ Deployable  
 
 ---
-# 💻 Tech Stack:
 
-<table align="center">
-  <tr>
-    <td align="center" width="220"><b>Python</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" /></td>
-    <td align="center" width="220"><b>AWS</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100" /></td>
-    <td align="center" width="220"><b>MySQL</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="100" /></td>
-    <td align="center" width="220"><b>MongoDB</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="100" /></td>
-    <td align="center" width="200"><b>DynamoDB</b><br/><br/><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DynamoDB-Dark.svg" width="100" height="100" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>TensorFlow</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="90" /></td>
-    <td align="center"><b>PyTorch</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="90" /></td>
-    <td align="center"><b>Keras</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="90" /></td>
-    <td align="center"><b>Scikit-learn</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="110" /></td>
-    <td align="center"><b>SciPy</b><br/><br/><img src="https://simpleicons.org/icons/scipy.svg" width="90" height="90" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Pandas</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="90" /></td>
-    <td align="center"><b>NumPy</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="90" /></td>
-    <td align="center"><b>Matplotlib</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="90" /></td>
-    <td align="center"><b>Plotly</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="90" /></td>
-    <td align="center"><b>Power BI</b><br/><br/><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="90" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Streamlit</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="90" /></td>
-    <td align="center"><b>Selenium</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="90" /></td>
-    <td align="center"><b>GitHub</b><br/><br/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="90" /></td>
-    <td colspan="2" align="center"><i>More coming soon...</i></td>
-  </tr>
+## ⚡ What I Actually Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔬 With Data
+- Data cleaning & preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Feature engineering  
+- Statistical thinking  
+
+</td>
+<td width="50%">
+
+### 🤖 With Models
+- Machine Learning pipelines  
+- NLP (TF-IDF, BoW, LDA)  
+- Model evaluation & tuning  
+- Real-world use cases  
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Data Never Sleeps
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayanksharma8853&show_icons=true&theme=default" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayanksharma8853" height="170"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/bar_chart.gif" width="420"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/neural_network.gif" width="380"/>
+</p>
+
+<p align="center">
+  <i>Patterns → Models → Insights</i>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🧰 My Toolbox (Curated)
+
+**Core**
+- Python • SQL  
+- Pandas • NumPy • SciPy  
+
+**Machine Learning**
+- Scikit-learn  
+- TensorFlow • PyTorch • Keras  
+
+**NLP**
+- Text preprocessing  
+- TF-IDF • Bag of Words  
+- Topic Modeling (LDA)  
+
+**Visualization & Apps**
+- Matplotlib • Plotly  
+- Power BI  
+- Streamlit  
+
+**Infra & Tools**
+- AWS  
+- MySQL • MongoDB • DynamoDB  
+- GitHub • Jupyter • Colab  
+
+---
+
+## 🚀 What I’m Building Right Now
+
+- 📌 End-to-end ML projects  
+- 📌 NLP-based analysis systems  
+- 📌 Streamlit apps for ML models  
+- 📌 A strong public project portfolio  
+
+---
+
+## 📈 GitHub in Numbers
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mayank-sharma-2a3994317/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mayanksharma-ds&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksharma-ds&theme=github-dark-blue&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayanksharma-ds&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌍 Find Me Outside GitHub
+
+<p align="center">
+  <a href="https://mayanksharma-ds.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-00E5FF?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/mayank-sharma-2a3994317/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:mayanksharma6002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/Mayanksharma8853">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-FF5252?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" />
+</p>
 
+<p align="center">
+  <b>⭐ Curious minds build better models — feel free to explore my repos</b>
+</p>
