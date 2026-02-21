@@ -70,9 +70,11 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 🌐 My Portfolio Showcase
 
-<a href="mayanksharma-ds.github.io">
+<a href="https://mayanksharma-ds.github.io" target="_blank">
   <img src="portfolio.gif" width="90%" style="border-radius: 10px; border: 2px solid #0d47a1;" alt="Portfolio Demo">
 </a>
 
@@ -134,7 +136,7 @@
   <br/><br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksharma-ds&stroke=0d47a1&extra=0d47a1&ring=0d47a1&fire=0d47a1&currStreakLabel=0d47a1&sideNums=0d47a1&sideLabels=0d47a1&dates=0d47a1&hide_border=true&background=ffffff" alt="GitHub Streak" />
-</div>>
+</div>
 
 <!-- LIGHT FOOTER WAVE -->
 <p align="center">
