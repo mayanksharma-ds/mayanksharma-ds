@@ -65,6 +65,34 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1E8FF,50:90CAF9,100:42A5F5&height=3"/>
 </p>
 
+
+
+
+<div align="center">
+
+## 🌐 My Portfolio Showcase
+
+<a href="mayanksharma-ds.github.io">
+  <img src="portfolio.gif" width="90%" style="border-radius: 10px; border: 2px solid #0d47a1;" alt="Portfolio Demo">
+</a>
+
+<p>
+  <font color="#0d47a1">
+    <b>Click the image above to visit my live portfolio!</b>
+  </font>
+</p>
+
+</div>
+
+
+<!-- SUBTLE GLASS DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1E8FF,50:90CAF9,100:42A5F5&height=3"/>
+</p>
+
+
+
+
 ## 🧠 What I Work With
 
 - 📊 Data Analysis & Feature Engineering  
